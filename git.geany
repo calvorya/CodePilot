@@ -26,8 +26,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=346;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fvulp%2FDocuments%2FCodePilot%2Fgit%2Findex.html;0;4
+current_page=2
+FILE_NAME_0=384;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fvulp%2FDocuments%2FCodePilot%2Fgit%2Findex.html;0;4
+FILE_NAME_1=0;JSON;0;EUTF-8;1;1;0;%2Fhome%2Fvulp%2FDocuments%2FCodePilot%2Fgit%2Ftsconfig.app.json;0;4
+FILE_NAME_2=3102;Markdown;0;EUTF-8;1;1;0;%2Fhome%2Fvulp%2FDocuments%2FCodePilot%2Fgit%2FREADME.md;0;4
 
 [VTE]
 last_dir=/home/vulp/Documents/CodePilot/git
